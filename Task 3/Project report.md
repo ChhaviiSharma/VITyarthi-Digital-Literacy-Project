@@ -4,3 +4,6 @@ In this task, I explored coding and collaboration platforms to improve my techni
 For collaboration, I used Google Workspace tools to create a Digital Literacy Awareness Quiz using Google Forms. The quiz included five questions, such as multiple-choice and short-answer types, to test classmates' knowledge about safe and responsible digital behavior. After creating the form, I shared the link and checked responses through Google Sheets. This allowed me to understand how data collection and analysis work in real time.
 
 These platforms will help me academically by improving coding skills, enhancing collaboration, and supporting project-based learning. Coding platforms will strengthen my problem-solving abilities, which are important for technical subjects. Google Workspace tools will help in creating surveys, collecting information, and working efficiently in team assignments. Overall, this task helped me develop both technical and communication skills useful for my academic journey.
+
+## Google Form Link:
+https://docs.google.com/forms/d/e/1FAIpQLSeFvJRIoa230CEeQVelzp3alHHbtB6pk9R8u1p7HqGfVYIc7g/viewform?usp=publish-editor
