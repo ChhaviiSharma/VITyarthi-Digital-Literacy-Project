@@ -1,6 +1,6 @@
-CASE STUDY 
+# CASE STUDY 
 
-TOPIC : Cyberbullying 
+## TOPIC : Cyberbullying 
 
 Cyberbullying is a form of online harassment where a person is repeatedly targeted using digital platforms such as social media, messaging apps, or online forums. A realistic example involves a 16-year-old student, Riya, who posted a class presentation video on her school group. Initially, a few classmates began mocking her accent in comments. Soon, screenshots were shared in other groups, and edited memes were created to embarrass her.
 
