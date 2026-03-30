@@ -1,4 +1,4 @@
-Stay Safe Online – Prevention Checklist (For College Students in India)
+## Stay Safe Online – Prevention Checklist (For College Students in India)
 
 
 1. Keep social media accounts private – Limit who can see your posts, stories, and personal details to prevent misuse.
@@ -22,7 +22,7 @@ Stay Safe Online – Prevention Checklist (For College Students in India)
 10. Talk to a trusted person – Inform friends, teachers, or family if you experience online harassment.
 
 
-Reporting Channels in India:
+## Reporting Channels in India:
 
 * National Cyber Crime Portal: https://cybercrime.gov.in
 * Cyber Crime Helpline: 1930
