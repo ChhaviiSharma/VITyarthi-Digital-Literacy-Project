@@ -1,9 +1,10 @@
-In task 2 (Build Your Student Digital Portfolio) , I chose three platforms which are :
+# In task 2 (Build Your Student Digital Portfolio) 
+I chose three platforms which are :
  1. GitHub
  2. LinkedIn
  3. Kaggle
 
-Now I am going to tell about each of these platforms and their uses -
+## Now I am going to tell about each of these platforms and their uses -
 
 1. GitHub is a platform that helps to manage and share coding projects efficiently .
 
@@ -32,6 +33,7 @@ Students can learn, collaborate, and improve skills in Python, data analysis, an
 Kaggle also helps in building a strong portfolio, gaining recognition, and preparing for careers in data science and analytics
 
 
-As a BTech student, I will use GitHub to upload projects, track progress, and collaborate with classmates. I will use LinkedIn to build a professional profile, connect with recruiters and explore internships. I will use Kaggle to practice data science, participate in competitions and learn from datasets. Over four years, these platforms will help me develop skills, build a portfolio, and improve career opportunities.
+## As a BTech student,
+I will use GitHub to upload projects, track progress, and collaborate with classmates. I will use LinkedIn to build a professional profile, connect with recruiters and explore internships. I will use Kaggle to practice data science, participate in competitions and learn from datasets. Over four years, these platforms will help me develop skills, build a portfolio, and improve career opportunities.
 
 
