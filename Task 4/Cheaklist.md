@@ -1,9 +1,9 @@
-TASK 4 (PART B)
+# TASK 4 (PART B)
 
-CHECKLIST
+## CHECKLIST
 
 
-Do's
+## Do's
 
 1. Think before posting — Ensure your content is respectful and appropriate.
 
@@ -15,7 +15,7 @@ Do's
 
 5. Maintain a positive digital footprint that reflects your personality and values.
 
-Don’ts
+## Don’ts
 
 1. Don’t share personal information like phone number, address, or passwords.
 
