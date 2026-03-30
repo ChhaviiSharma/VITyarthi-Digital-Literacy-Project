@@ -1,4 +1,5 @@
-In this task 1 , I created a single page infographic to explain digital literacy concepts and the importance and use of digital literacy for students .
+# In this task 1 
+I created a single page infographic to explain digital literacy concepts and the importance and use of digital literacy for students .
 
 1. I used Canva to design the infographic page as it gives multiple templates and other visual elements . The infographic contains three main sections :
  1. What digital literacy is ?
