@@ -7,3 +7,6 @@ These platforms will help me academically by improving coding skills, enhancing 
 
 ## Google Form Link:
 https://docs.google.com/forms/d/e/1FAIpQLSeFvJRIoa230CEeQVelzp3alHHbtB6pk9R8u1p7HqGfVYIc7g/viewform?usp=publish-editor
+
+## Response Sheet Link:
+https://docs.google.com/spreadsheets/d/1lJE-jcK6zMbludtgPGvqRJHzY7Cygby5J6bJxr2siis/edit?resourcekey=&gid=1404381839#gid=1404381839
